@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(71, 69, 69, 0.745)
+}
+
+.Titulo{
+    color: rgb(11, 61, 33);
+    text-align: center;
+}
+
+.btn{
+    margin: 5px;
+}
